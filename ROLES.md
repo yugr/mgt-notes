@@ -1,3 +1,5 @@
+Requirements for various project roles.
+
 # Daily meeting operator
 
 A person responsible for daily meetings.
