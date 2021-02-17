@@ -32,9 +32,12 @@ A person who reviews someone else's code.
     * probability of changes is minimized or cost of change will be low
     * are issues worked around or really fixed?
     * are issues fixed for all cases?
-  * Are there common issues? (ideally this should be done through a checklist)
+  * Are there common issues? (ideally this should be done
+    through a checklist)
     * formalitites: link to task tracker, changelog, etc.
     * codestyle violations
+    * usage of patterns/constructs which are not widely used
+      in existing codebase
     * code smells:
       * duplication
       * overly deep nesting
@@ -50,5 +53,6 @@ A person who reviews someone else's code.
     * project-specific rules
 * Verify tests
   * how was the code tested? Is test coverage enough for reviewed change?
-  * for optimization changes, are changes in performance acceptable/beneficial for important cases?
+  * for optimizations, are changes in performance of important benchmarks
+    beneficial/acceptable?
 * In case of disagreement - contact PL

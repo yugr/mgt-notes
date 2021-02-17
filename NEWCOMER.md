@@ -16,4 +16,4 @@ Newcomer's guide (on wiki so that everyone could update):
     * reporting (daily mails/meetings, etc.)
     * codestyle
     * task tracking rules (DoD, QA requirements, etc.)
-    * code review rules
+    * code review rules (review remarks are not mandatory, author can and should object if he disagrees, teamlead resolves in case both parties can not come to conclusion)
