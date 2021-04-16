@@ -17,7 +17,7 @@ A person responsible for daily meetings.
   * for each engineer: what was done, what is planned, blockers
   * manage conflicts
   * stop long technical discussions
-* Arrange techdiscussions after main part ends (if needed
+* Arrange techdiscussions after main part ends (if needed)
 
 # Reviewer
 
@@ -50,6 +50,7 @@ A person who reviews someone else's code.
     * are there enough comments?
     * have the docs been updated?
     * have new compiler warnings been introduced?
+    * ABI violations in public APIs
     * project-specific rules
 * Verify tests
   * how was the code tested? Is test coverage enough for reviewed change?
