@@ -2,6 +2,10 @@ Newcomer's bringup (done by a mentor):
   * provide instructions about machine setup
   * help register in corp systems (email, tracker, wiki, etc.)
   * direct to newcomer's guide (set deadlines and track progress daily)
+  * provide project overview:
+    * architecture (main components and core data structures)
+    * code structure (repos, directory contents)
+    * program flow (main phases and algorithms)
   * provide with bringup tasks from backlog
 
 Newcomer's guide (on wiki so that everyone could update):
