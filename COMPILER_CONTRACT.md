@@ -120,7 +120,7 @@ External tools:
   * allocate several Jira accounts for customers employees
 * configuration management:
   * all merges to master are done through GH/GL/Bitbucket pull requests
-  * no complex history (`git pull --rebase` for all feature branches)
+  * no complex history (`git pull --rebase --no-ff` for all feature branches)
 * all significant compiler changes must be pre-approved by the customer:
   * open-source modifications
   * disabling standard OSS passes
