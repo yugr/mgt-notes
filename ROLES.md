@@ -16,7 +16,7 @@ A person responsible for daily meetings.
 * Collect status reports in order
   * for each engineer: what was done, what is planned, blockers
   * manage conflicts
-  * stop long technical discussions
+  * actively prevent overly technical discussions and postpone them to the end of the meeting
 * Arrange techdiscussions after main part ends (if needed)
 
 # Reviewer
