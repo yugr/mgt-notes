@@ -57,3 +57,13 @@ A person who reviews someone else's code.
   * for optimizations, are changes in performance of important benchmarks
     beneficial/acceptable?
 * In case of disagreement - contact PL
+
+# Nightly watch
+
+A person who monitors status of nightly builds.
+
+* Check what regressed in the latest nightly build
+* File Jira tasks for all new regressions
+* Update current nightly status (with references to newly created tasks)
+* Send status email
+
