@@ -28,11 +28,12 @@ A person who reviews someone else's code.
   * are requirements complete? Is anything missing?
 * Then verify the code:
   * does it implement _all_ task requirements?
+  * are benchmark results provided?
   * are changes maintainable
     * probability of changes is minimized or cost of change will be low
     * are issues worked around or really fixed?
     * are issues fixed for all cases?
-  * Are there common issues? (ideally this should be done
+  * are there common issues? (ideally this should be done
     through a checklist)
     * formalitites: link to task tracker, changelog, etc.
     * codestyle violations
