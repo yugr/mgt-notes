@@ -1,4 +1,6 @@
-Common pitfalls of SW manager career, in no particular order.
+Common professional risks of SW manager career, in no particular order.
+
+Each item may be less relevant in some environments.
 
 * You will have to communicate with many different people, some of which you'd prefer not to
 * You will have to do things that you do not like (marketing, boring paperwork, solve infra issues that noone else knows/wants to solve, etc.)
