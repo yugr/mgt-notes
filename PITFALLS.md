@@ -1,5 +1,8 @@
 Common professional risks of SW manager career, in no particular order.
 
+As a senior developer you may already face some of them but
+they'll get much more intense when you are promoted to manager.
+
 Each item may be less relevant in some environments.
 
 * You will have to communicate with many different people, some of which you'd prefer not to
