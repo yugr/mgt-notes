@@ -8,6 +8,14 @@ Newcomer's bringup (done by a mentor):
     * program flow (main phases and algorithms)
   * provide with bringup tasks from backlog
 
+Newcomer intro (done by TL):
+  * company structure (BUs, department hierarchy and functions)
+  * stakeholders (local and HQ, users, HR, competitors, etc.)
+  * team (goals, directions 5W, history, members)
+  * processes (probation, grading, evaluation and appraisal, annual/project lifecycle, main milestones, etc.)
+  * security rules (TeamViewer, VPN, etc.)
+  * expectations
+
 Newcomer's guide (on wiki so that everyone could update):
   * registration (obtaining credentials, registering in corp systems, etc.)
   * environment (needed packages, tools, VMs, certificates, messengers, etc.)
@@ -17,6 +25,7 @@ Newcomer's guide (on wiki so that everyone could update):
   * where to find debugging hints
   * how CI works
   * development process:
+    * attendance
     * reporting (daily mails/meetings, etc.)
     * codestyle
     * task tracking rules (DoD, QA requirements, etc.)
