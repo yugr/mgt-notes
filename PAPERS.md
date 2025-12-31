@@ -1,5 +1,12 @@
 Guidelines for paper review process.
 
+# Why
+
+Papers need to be investigated to
+  * understand industry trends
+  * find new ideas (for projects, co-ops, etc.)
+  * make better design decisions (e.g. select framework or algorithm)
+
 # Research team
 
 To enable a paper review process TL will first need to form a research sub-team.
@@ -20,8 +27,8 @@ New publications will need to be monitored regularly (e.g. quarterly for confere
 # Selecting papers
 
 As there will be too many published papers the team will have to come up
-with some filters. For example
-  * very relevant direction
+with some filters for papers. For example
+  * relevant topics keywords
   * important authors
   * highly influential (i.e. oft cited) papers
   * surveys
@@ -38,7 +45,8 @@ The following topics should be covered in presentation:
   * background (5W)
   * problem which authors were solving
   * challenges that they had to overcome
-  * important implementation details (useful insights, methods, etc.)
+  * important implementation details (useful insights, methods, design decisions, etc.)
+    - do not expect to find complete solution for your problems
   * results
   * limitations
   * relevance to team directions
