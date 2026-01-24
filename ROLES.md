@@ -6,7 +6,7 @@ A person responsible for daily meetings.
 
 * Reserve conference room
 * Start phone call
-* Ensure people attend (remind via chats/calls)
+* Ensure people attend and update Jira (remind via chats/calls)
 * Report/collect daily news
   * team achievements
   * CI issues
