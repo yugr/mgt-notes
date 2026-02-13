@@ -20,6 +20,9 @@ This team should first come up with a list of paper sources.
 
 Usually these would be relevant conferences in industry and academia
 but YouTube channels and even blogs are also useful.
+High-quality manuals for state-of-the-art industry solutions
+are relevant too (for example User/Programmer Guides for TI DSPs or
+Cell Broadband Engine).
 
 Publications of past 3-5 years will provide initial backlog of papers.
 New publications will need to be monitored regularly (e.g. quarterly for conferences).
