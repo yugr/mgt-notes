@@ -8,7 +8,8 @@ of the project e.g.
   - install environment
   - write new tests (preferably complex ones)
   - implement low-priority features
-  - investigate new directions
+  - write prototype for some new direction
+  - prepare report about some relevant technology
 
 Perform regular (at least bi-weekly) checks on status.
 Pay special attention to
