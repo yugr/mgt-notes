@@ -11,7 +11,7 @@ of the project e.g.
   - write prototype for some new direction
   - prepare report about some relevant technology
 
-Perform regular (at least bi-weekly) checks on status.
+Perform regular (at least twice a week) checks on status.
 Pay special attention to
   - how fast your requests are addressed
     (do they need to be tracked to be done?)
