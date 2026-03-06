@@ -22,10 +22,12 @@ Usually these would be relevant conferences in industry and academia
 but YouTube channels and even blogs are also useful.
 High-quality manuals for state-of-the-art industry solutions
 are relevant too (for example User/Programmer Guides for TI DSPs or
-Cell Broadband Engine).
+Cell Broadband Engine). arXiv should also be searched for recent publications
+which match relevant keywords.
 
 Publications of past 3-5 years will provide initial backlog of papers.
-New publications will need to be monitored regularly (e.g. quarterly for conferences).
+New publications will need to be monitored regularly (e.g. quarterly for conferences
+and weekly/monthly for arXiv).
 
 # Selecting papers
 
