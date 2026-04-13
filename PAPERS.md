@@ -50,7 +50,7 @@ The following topics should be covered in presentation:
   * background (5W)
   * problem which authors were solving
   * challenges that they had to overcome
-  * important implementation details (useful insights, methods, design decisions, etc.)
+  * important implementation details ("key technology", useful insights, methods, design decisions, etc.)
     - do not expect to find complete solution for your problems
   * results
   * limitations
