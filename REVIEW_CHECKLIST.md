@@ -8,6 +8,7 @@
     * probability of changes is minimized or cost of change will be low
     * are issues worked around or really fixed?
     * are issues fixed for all cases?
+    * are common design rules followed (DRY, SOLID)
   * are there common issues? (ideally this should be done
     through a checklist)
     * formalitites: link to task tracker, changelog, etc.
@@ -20,6 +21,8 @@
       * global variables
       * magic constants
       * goto
+      * bad (wrong, incomplete, etc.) variables names
+      * dead code
     * are all retcodes checked?
       * don't be paranoid - it's ok to not check every `malloc`
       * but not checking `fopen` is not...
