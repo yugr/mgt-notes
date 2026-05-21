@@ -9,7 +9,8 @@ Papers need to be investigated to
 
 # Research team
 
-To enable a paper review process TL will first need to form a research sub-team.
+To enable a paper review process TL will first need to form a research sub-team
+("research scouts").
 I recommend to include responsible and performant team members
 who already had some exposure to paper reviews (e.g. in institute)
 and at least tolerate research activities (not all engineers do).
@@ -41,7 +42,8 @@ with some filters for papers. For example
 
 # Reviews
 
-Each paper should be carefully studied and presented to team.
+Each paper should be carefully studied and presented to team
+(and updated after review).
 In addition References and Cited By also need to be checked and
 relevant papers should be added to backlog.
 For high quality papers it also makes sense to study other papers
