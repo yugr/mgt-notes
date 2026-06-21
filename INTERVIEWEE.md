@@ -10,3 +10,4 @@ Partially based on talk by Alex Chernyi https://www.youtube.com/watch?v=YM2YpmeH
 * Development practices (CI, code review, static/dynamic analysis, coverage)
 * Legacy code and tech debt (size, policy, how much time spent on refactoring monthly)
 * Upstreaming (how many commits contributed last month)
+* Schedule (working hours, overtimes, biztrips, shifts, day-offs)
