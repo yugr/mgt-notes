@@ -40,6 +40,21 @@ with some filters for papers. For example
   * highly influential (i.e. oft cited) papers
   * surveys
 
+Papers may be prioritized based on team's goals e.g.
+  * focus on papers from diverse sub-domains
+    (to increase team's knowledge breadth)
+  * prefer papers directly relevant to current tasks
+    (for immediate benefits)
+
+(priorities may also be dynamic, based on current situation in project).
+
+# Pre-reviews
+
+Before working on full-blown paper analysis (which takes time and effort)
+it may make sense to do a preliminary review.
+In such pre-review it's enough to show paper's main direction and
+several relevant key points.
+
 # Reviews
 
 Each paper should be carefully studied and presented to team
