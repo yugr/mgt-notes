@@ -17,3 +17,4 @@ before starting with new team:
   - to foster (or at least simplify) collaboration,
     all communication must be professional, respectful
     and polite
+  - PM will not assign tasks directly, over TL's head
