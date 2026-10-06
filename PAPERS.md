@@ -34,7 +34,7 @@ and weekly/monthly for arXiv).
 # Selecting papers
 
 As there will be too many published papers the team will have to come up
-with some filters for papers. For example
+with some filters for them. For example
   * relevant topics keywords
   * important authors
   * highly influential (i.e. oft cited) papers
@@ -47,6 +47,8 @@ Papers may be prioritized based on team's goals e.g.
     (for immediate benefits)
 
 (priorities may also be dynamic, based on current situation in project).
+
+It makes sense to select next set of papers on regular meetings.
 
 # Pre-reviews
 
