@@ -12,11 +12,17 @@ Examples:
   - I did not complete my task because I did not have access to server (and I did not tell anyone about it until the deadline)
   - I did not complete my task because this was not my responsibility
   - I did not complete my task because I did not consider it important
+  - I did not complete my task because command X failed
   - I did not complete my task because X should do it (variant: because that's not my job)
+  - I did not complete my task because ChatGPT didn't solve it
 
 Reporting problems without proposing next steps is somewhat similar:
   - X is broken
   - The documentation is wrong
   - The requirements are unclear
+
+Also active pushback on tasks which are slightly more complicated:
+  - why should I do it
+  - X should do it instead of me because Y
 
 Another potentially concerning pattern is repeatedly saying "I am studying/analyzing/researching/looking into X" in daily meetings without being able to describe concrete progress, findings, next steps, or obstacles.
